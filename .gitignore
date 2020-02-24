@@ -3,4 +3,5 @@
 
 venv/
 
-workloads/
+
+*.gz
