@@ -40,8 +40,8 @@ available predictors:
 + walltime-predictioner-keras-mg.py: Contribution from Markus Götz  
 + walltime-predictioner-keras.py: Example with tensorflow+keras  
 + walltime-predictioner-scikit.py: using different Regressor form scikit package (see Code)  
-+ walltime-predictioner-scikit-autosklearn.py: using auto-sklearn as AUTOML package https://epistasislab.github.io/tpot/  
-+ walltime-predictioner-scikit-tpot.py: using TPOT as AUTOML package (https://automl.github.io/auto-sklearn/master/)  
++ walltime-predictioner-scikit-autosklearn.py: using auto-sklearn as AUTOML package  (https://automl.github.io/auto-sklearn/master/)  
++ walltime-predictioner-scikit-tpot.py: using TPOT as AUTOML package https://epistasislab.github.io/tpot/  
 + walltime-predictioner-scikit-graphviz.py: small snippets to create png with graphviz package etc ...  
 
 
